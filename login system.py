@@ -10,7 +10,7 @@ def login():
         root=Toplevel(screen)
         root.title("Bill")
         root.geometry("1280x720+150+80")
-        root.configure(bg="#d7dae2")
+        root.configure(bg="#d7dae2") 
         root.resizable(False,False)
 
         #copy and paste your code here
